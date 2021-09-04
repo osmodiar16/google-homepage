@@ -45,6 +45,7 @@ header a:hover{
     justify-content: flex-end;
     align-items: center;
     flex-grow: 1;
+    padding-right: 10px;
 }
 
 /** Search and logo**/
